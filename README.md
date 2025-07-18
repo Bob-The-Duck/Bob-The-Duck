@@ -26,7 +26,7 @@ Aktualnie aktywnie uczę się:
 
 Możesz skontaktować się ze mną poprzez:
 
-* [Twój adres e-mail, np. exploit.hack@hotmail.com]
+* [email](exploit.hack@hotmail.com)
 
 ---
 
