@@ -11,6 +11,7 @@ Obecnie programuję w:
 * **Python**
 * **JavaScript**
 * **HTML**
+* **Roblox lua**
 
 ---
 
@@ -32,4 +33,4 @@ Możesz skontaktować się ze mną poprzez:
 
 ### ✨ Co dalej?
 
-Stale rozwijam swoje umiejętności i szukam nowych wyzwań. Zapraszam do śledzenia moich projektów!
+Aktualnie pracuje nad grą Chaos Tycoon,ale o tym kiedy indziej
